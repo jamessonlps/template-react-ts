@@ -1,0 +1,6 @@
+*.css
+*.svg
+*.png
+*.json
+node_modules
+dist
